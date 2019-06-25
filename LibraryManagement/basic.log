@@ -1,0 +1,165 @@
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=bio, bPrice=500, bAuthor=hgfdd, bPage=400]
+INFO - In getHospitalId
+INFO - Got Book With Id1002
+INFO - Completed getBookId
+INFO - Inserted successfully and Id is = 1002
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=woefdwbsdv, bPrice=582, bAuthor=gdjhsajw, bPage=852]
+ERROR - Error in insert = ORA-00942: table or view does not exist
+
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=fuyh, bPrice=3435, bAuthor=gxfqdjks, bPage=345]
+INFO - enterd studentId is123
+INFO - enterd studentId is123
+INFO - enterd studentId is121
+INFO - In Add Book
+INFO - Input is 121
+INFO - enterd studentId is121
+INFO - In Add Book
+INFO - Input is 121
+INFO - enterd studentId is121
+INFO - enterd studentId is121
+INFO - In Add Book
+INFO - Input is 111
+INFO - enterd studentId is234
+INFO - In Add Book
+INFO - Input is 47
+INFO - enterd studentId is234
+INFO - enterd studentId is34
+INFO - enterd studentId is10
+INFO - enterd studentId is10
+INFO - enterd studentId is10
+INFO - enterd studentId is10
+INFO - enterd studentId is30
+INFO - enterd studentId is10
+INFO - enterd studentId is10
+INFO - enterd studentId is10
+INFO - enterd studentId is30
+INFO - enterd studentId is10
+INFO - enterd studentId is10
+INFO - enterd studentId is30
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=secret, bPrice=1500, bAuthor=shiva, bPage=100, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = ORA-00913: too many values
+
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=secret, bPrice=60, bAuthor=shiva, bPage=10, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = ORA-00913: too many values
+
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=secret, bPrice=2500, bAuthor=shiva, bPage=100, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = Invalid column index
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=secret, bPrice=200, bAuthor=shiva, bPage=100, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = ORA-00913: too many values
+
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=hfkjdh, bPrice=234, bAuthor=frbf, bPage=123, issueDate=null, returnDate=null, studentId=10]
+INFO - In getBookId
+INFO - Got Book With Id1
+INFO - Completed getBookId
+INFO - Inserted successfully and Id is = 1
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=fdgf, bPrice=200, bAuthor=fdsg, bPage=100, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = Invalid column index
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=fdgn, bPrice=300, bAuthor=sdfg, bPage=100, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = Invalid column index
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is 10
+INFO - Inserted successfully and Id is = 10
+INFO - enterd studentId is10
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=afdgdh, bPrice=1000, bAuthor=dhdftfuj, bPage=100, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = Invalid column index
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=fgcvjnh, bPrice=1200, bAuthor=dsgfjk, bPage=100, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = Invalid column index
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=fjdshg, bPrice=120, bAuthor=jsdjg, bPage=10, issueDate=null, returnDate=null, studentId=10]
+ERROR - Error in insert = Invalid column index
+INFO - enterd studentId is10
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=shgfsfgj, bPrice=1200, bAuthor=fdjkfg, bPage=102, issueDate=null, returnDate=null, studentId=10]
+INFO - In getBookId
+INFO - Got Book With Id2
+INFO - Completed getBookId
+INFO - Inserted successfully and Id is = 2
+INFO - enterd studentId is121
+INFO - enterd studentId is122
+INFO - enterd studentId is121
+INFO - enterd studentId is121
+INFO - enterd studentId is121
+INFO - enterd studentId is121
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=Saran, bPrice=500, bAuthor=Motamarri, bPage=25, issueDate=null, returnDate=null, studentId=121]
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=Saran, bPrice=500, bAuthor=Motamarri, bPage=25, issueDate=null, returnDate=null, studentId=121]
+INFO - In getBookId
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+INFO - In getBookId
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+ERROR - Error in insert = ORA-01861: literal does not match format string
+
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+INFO - In Add Book
+INFO - Input is Book [bId=0, bName=sekhar, bPrice=500, bAuthor=shsa, bPage=225, issueDate=null, returnDate=null, studentId=121]
+INFO - In getBookId
+INFO - Got Book With Id1002
+INFO - Completed getBookId
+INFO - Inserted successfully and Id is = 1002
+INFO - enterd studentId is12222
+INFO - In Add Book
+INFO - Input is 12222
+INFO - Inserted successfully and Id is = 12222
+INFO - enterd studentId is122222
+INFO - In Add Book
+INFO - Input is 122222
+INFO - Inserted successfully and Id is = 122222
+INFO - enterd studentId is122222
+INFO - Successfully enter through StudentId122222
+INFO - enterd studentId is4652316513
+INFO - enterd studentId is2646115
+INFO - In Add Book
+INFO - Input is 12121212
+INFO - Inserted successfully and Id is = 12121212
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
+INFO - enterd studentId is121
+INFO - Successfully enter through StudentId121
